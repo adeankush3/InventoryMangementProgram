@@ -1,0 +1,53 @@
+{
+  "RiceList": [
+    {
+      "Name": "Basamti",
+      "Price": 10,
+      "Weight": 20
+    },
+    {
+      "Name": "A",
+      "Price": 10,
+      "Weight": 20
+    },
+    {
+      "Name": "",
+      "Price": 10,
+      "Weight": 20
+    }
+  ],
+  "WheatList": [
+    {
+      "Name": "M",
+      "Price": 10,
+      "Weight": 20
+    },
+    {
+      "Name": "N",
+      "Price": 10,
+      "Weight": 20
+    },
+    {
+      "Name": "O",
+      "Price": 10,
+      "Weight": 20
+    }
+  ],
+  "PulsesLiat": [
+    {
+      "Name": "X",
+      "Price": 10,
+      "Weight": 20
+    },
+    {
+      "Name": "Y",
+      "Price": 10,
+      "Weight": 20
+    },
+    {
+      "Name": "Z",
+      "Price": 10,
+      "Weight": 20
+    }
+  ]
+}
